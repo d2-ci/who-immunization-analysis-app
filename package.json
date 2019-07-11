@@ -2,5 +2,5 @@
   "name": "immunization-analysis",
   "description": "Immunization data analysis app for DHIS2",
   "license": null,
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
